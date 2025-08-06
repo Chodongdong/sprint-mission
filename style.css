@@ -148,13 +148,11 @@ header {
 .info-title {
   font-size: 40px;
   font-weight: 700;
-  color: #374151;
 }
 
 .info-text {
   font-size: 24px;
   font-weight: 500;
-  color: #374151;
 }
 
 .info-container:nth-child(2n) .info {
